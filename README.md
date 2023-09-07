@@ -1,6 +1,11 @@
 # guvi-project
 A Project done for GUVI Internship
 
+
+It consists of a dashboard page where we have login, signup and view profile pages
+
+
+
 download all the given files.
 1.create a database guvi.sql and import the given file.
 2.Download all the given files and store it in htdocs(located in LOCAL DISK -C (INSTALL XAMPP SERVER)).
